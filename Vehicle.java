@@ -6,7 +6,7 @@ public class Vehicle {
     private int wheelCount;
     private int doorCount;
     private boolean isVerifyed; 
-
+    public int x = 12;
 
 
     public Vehicle(boolean isCar, int wheelCount, int doorCount, String brand, String type) {
