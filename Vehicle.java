@@ -5,6 +5,7 @@ public class Vehicle {
     private boolean isCar;
     private int wheelCount;
     private int doorCount;
+    private boolean isVerifyed; 
 
 
 
